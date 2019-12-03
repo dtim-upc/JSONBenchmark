@@ -1,0 +1,3 @@
+01 -insertBulk -postgresql /home/braulio/Documents/UPCProject/data/insert/1NF /home/braulio/Documents/UPCProject/metrics6 101 indexPath=/home/braulio/Documents/UPCProject/data/create/indexes/nopk.nokv.nocod.create.postgres -createTable=/home/braulio/Documents/UPCProject/data/create/tables/nopk.nokv.nocod.create.postgres
+01 -fullTableScan -postgresql /home/braulio/Documents/UPCProject/data/insert/1NF /home/braulio/Documents/UPCProject/metrics6 101
+01 -dropDatabase -postgresql 101

@@ -1,1 +1,1 @@
-# JSONBenchmark
+# BenchmarkDB
